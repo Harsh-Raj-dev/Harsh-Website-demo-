@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.contener{
+    padding: 15px;
+    margin: 80px;
+    width:800px;
+    height:350px;
+    background-color: aqua;
+}
